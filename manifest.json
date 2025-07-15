@@ -1,0 +1,1051 @@
+{
+    "manifest_version": "1.0.21",
+    "title": "CoinClan - Cryptocurrency Elementor Template Kit",
+    "page_builder": "elementor",
+    "kit_version": "1.0.0",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/bimberonline.com",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Careers Details",
+            "screenshot": "screenshots\/careers-details.jpg",
+            "source": "templates\/careers-details.json",
+            "preview_url": "https:\/\/bimberonline.com\/coinclan\/template-kit\/careers-details\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Tokens Details",
+            "screenshot": "screenshots\/tokens-details.jpg",
+            "source": "templates\/tokens-details.json",
+            "preview_url": "https:\/\/bimberonline.com\/coinclan\/template-kit\/tokens-details\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Tokens",
+            "screenshot": "screenshots\/tokens.jpg",
+            "source": "templates\/tokens.json",
+            "preview_url": "https:\/\/bimberonline.com\/coinclan\/template-kit\/tokens\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Our Team",
+            "screenshot": "screenshots\/our-team.jpg",
+            "source": "templates\/our-team.json",
+            "preview_url": "https:\/\/bimberonline.com\/coinclan\/template-kit\/our-team\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Faq",
+            "screenshot": "screenshots\/faq.jpg",
+            "source": "templates\/faq.json",
+            "preview_url": "https:\/\/bimberonline.com\/coinclan\/template-kit\/faq-2\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Testimonials",
+            "screenshot": "screenshots\/testimonials.jpg",
+            "source": "templates\/testimonials.json",
+            "preview_url": "https:\/\/bimberonline.com\/coinclan\/template-kit\/testimonials\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Careers",
+            "screenshot": "screenshots\/careers.jpg",
+            "source": "templates\/careers.json",
+            "preview_url": "https:\/\/bimberonline.com\/coinclan\/template-kit\/careers\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Contact Us",
+            "screenshot": "screenshots\/contact-us.jpg",
+            "source": "templates\/contact-us.json",
+            "preview_url": "https:\/\/bimberonline.com\/coinclan\/template-kit\/contact-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "About Us",
+            "screenshot": "screenshots\/about-us.jpg",
+            "source": "templates\/about-us.json",
+            "preview_url": "https:\/\/bimberonline.com\/coinclan\/template-kit\/about-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Home",
+            "screenshot": "screenshots\/home.jpg",
+            "source": "templates\/home.json",
+            "preview_url": "https:\/\/bimberonline.com\/coinclan\/template-kit\/home\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "404",
+            "screenshot": "screenshots\/404.jpg",
+            "source": "templates\/404.json",
+            "preview_url": "https:\/\/bimberonline.com\/coinclan\/?elementor_library=404",
+            "type": "error-404",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-404",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "error-404",
+                "elementor_pro_conditions": [
+                    "include\/singular\/not_found404"
+                ],
+                "additional_template_information": [
+                    "This is a \"Error 404\" template for Elementor Pro.",
+                    "This template will display on: 404 Page."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Single Post",
+            "screenshot": "screenshots\/single-post.jpg",
+            "source": "templates\/single-post.json",
+            "preview_url": "https:\/\/bimberonline.com\/coinclan\/?elementor_library=single-post",
+            "type": "single-post",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-post",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "single-post",
+                "elementor_pro_conditions": [
+                    "include\/singular\/post"
+                ],
+                "additional_template_information": [
+                    "This is a \"Single Post\" template for Elementor Pro.",
+                    "This template will display on: Posts."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Archive Blog",
+            "screenshot": "screenshots\/archive-blog.jpg",
+            "source": "templates\/archive-blog.json",
+            "preview_url": "https:\/\/bimberonline.com\/coinclan\/?elementor_library=archive-blog",
+            "type": "archive",
+            "category": "page",
+            "metadata": {
+                "template_type": "archive-blog",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "archive",
+                "elementor_pro_conditions": [
+                    "include\/archive\/post_archive"
+                ],
+                "additional_template_information": [
+                    "This is a \"Archive\" template for Elementor Pro.",
+                    "This template will display on: Posts Archive."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Footer",
+            "screenshot": "screenshots\/footer.jpg",
+            "source": "templates\/footer.json",
+            "preview_url": "https:\/\/bimberonline.com\/coinclan\/?elementor_library=footer",
+            "type": "footer",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "footer",
+                "elementor_pro_conditions": [
+                    "include\/general"
+                ],
+                "additional_template_information": [
+                    "This is a \"Footer\" template for Elementor Pro.",
+                    "This template will display on: Entire Site."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Header",
+            "screenshot": "screenshots\/header.jpg",
+            "source": "templates\/header.json",
+            "preview_url": "https:\/\/bimberonline.com\/coinclan\/?elementor_library=header",
+            "type": "header",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "header",
+                "elementor_pro_conditions": [
+                    "include\/general"
+                ],
+                "additional_template_information": [
+                    "This is a \"Header\" template for Elementor Pro.",
+                    "This template will display on: Entire Site."
+                ]
+            },
+            "elementor_pro_required": true
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Cryptocurrency Widgets For Elementor",
+            "version": "1.5.1",
+            "file": "cryptocurrency-widgets-for-elementor\/cryptocurrency-widgets-for-elementor.php",
+            "author": "Cool Plugins"
+        },
+        {
+            "name": "ElementsKit Lite",
+            "version": "2.8.0",
+            "file": "elementskit-lite\/elementskit-lite.php",
+            "author": "Wpmet"
+        },
+        {
+            "name": "Elementor",
+            "version": "3.9.2",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "Elementor Pro",
+            "version": "3.9.2",
+            "file": "elementor-pro\/elementor-pro.php",
+            "author": "Elementor.com"
+        }
+    ],
+    "images": [
+        {
+            "filename": "img-bg-02-min.png",
+            "thumbnail_url": "https:\/\/bimberonline.com\/coinclan\/wp-content\/uploads\/sites\/136\/2022\/12\/img-bg-02-min-800x650.png",
+            "templates": [
+                {
+                    "source": "templates\/careers-details.json",
+                    "name": "Careers Details"
+                },
+                {
+                    "source": "templates\/tokens-details.json",
+                    "name": "Tokens Details"
+                },
+                {
+                    "source": "templates\/tokens.json",
+                    "name": "Tokens"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "Faq"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                },
+                {
+                    "source": "templates\/careers.json",
+                    "name": "Careers"
+                },
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/404.json",
+                    "name": "404"
+                },
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                },
+                {
+                    "source": "templates\/archive-blog.json",
+                    "name": "Archive Blog"
+                }
+            ],
+            "filesize": 142801,
+            "dimensions": [
+                1230,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/3d-rendering-money-coin-saving-on-pastel-bundles-XQYQY7W"
+        },
+        {
+            "filename": "img-coin-01-min.png",
+            "thumbnail_url": "https:\/\/bimberonline.com\/coinclan\/wp-content\/uploads\/sites\/136\/2022\/12\/img-coin-01-min.png",
+            "templates": [
+                {
+                    "source": "templates\/careers-details.json",
+                    "name": "Careers Details"
+                },
+                {
+                    "source": "templates\/tokens-details.json",
+                    "name": "Tokens Details"
+                },
+                {
+                    "source": "templates\/tokens.json",
+                    "name": "Tokens"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "Faq"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                },
+                {
+                    "source": "templates\/careers.json",
+                    "name": "Careers"
+                },
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/404.json",
+                    "name": "404"
+                },
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                },
+                {
+                    "source": "templates\/archive-blog.json",
+                    "name": "Archive Blog"
+                }
+            ],
+            "filesize": 53156,
+            "dimensions": [
+                500,
+                500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/3d-bitcoin-cryptocurrency-icons-G82S9J2"
+        },
+        {
+            "filename": "img-coin-02-min.png",
+            "thumbnail_url": "https:\/\/bimberonline.com\/coinclan\/wp-content\/uploads\/sites\/136\/2022\/12\/img-coin-02-min.png",
+            "templates": [
+                {
+                    "source": "templates\/careers-details.json",
+                    "name": "Careers Details"
+                },
+                {
+                    "source": "templates\/tokens-details.json",
+                    "name": "Tokens Details"
+                },
+                {
+                    "source": "templates\/tokens.json",
+                    "name": "Tokens"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "Faq"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                },
+                {
+                    "source": "templates\/careers.json",
+                    "name": "Careers"
+                },
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/404.json",
+                    "name": "404"
+                },
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                },
+                {
+                    "source": "templates\/archive-blog.json",
+                    "name": "Archive Blog"
+                }
+            ],
+            "filesize": 44504,
+            "dimensions": [
+                500,
+                500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/3d-bitcoin-cryptocurrency-icons-G82S9J2"
+        },
+        {
+            "filename": "young-employee-in-office-2022-02-02-18-29-36-utc-min.jpg",
+            "thumbnail_url": "https:\/\/bimberonline.com\/coinclan\/wp-content\/uploads\/sites\/136\/2022\/12\/young-employee-in-office-2022-02-02-18-29-36-utc-min-800x1200.jpg",
+            "templates": [
+                {
+                    "source": "templates\/careers-details.json",
+                    "name": "Careers Details"
+                }
+            ],
+            "filesize": 246008,
+            "dimensions": [
+                1000,
+                1500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/young-employee-in-office-M7FCXY3"
+        },
+        {
+            "filename": "woman-professional-hr-interviews-a-candidate-for-a-2022-03-08-17-58-29-utc-min.jpg",
+            "thumbnail_url": "https:\/\/bimberonline.com\/coinclan\/wp-content\/uploads\/sites\/136\/2022\/12\/woman-professional-hr-interviews-a-candidate-for-a-2022-03-08-17-58-29-utc-min-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/careers-details.json",
+                    "name": "Careers Details"
+                }
+            ],
+            "filesize": 247637,
+            "dimensions": [
+                1500,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/woman-professional-hr-interviews-a-candidate-for-a-U4WDZAT"
+        },
+        {
+            "filename": "opening-a-vacancy-for-a-new-position-hr-director-2022-11-14-01-15-08-utc-min.jpg",
+            "thumbnail_url": "https:\/\/bimberonline.com\/coinclan\/wp-content\/uploads\/sites\/136\/2022\/12\/opening-a-vacancy-for-a-new-position-hr-director-2022-11-14-01-15-08-utc-min-800x1200.jpg",
+            "templates": [
+                {
+                    "source": "templates\/careers-details.json",
+                    "name": "Careers Details"
+                }
+            ],
+            "filesize": 146942,
+            "dimensions": [
+                1000,
+                1500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/opening-a-vacancy-for-a-new-position-hr-director-o-6N8M8W3"
+        },
+        {
+            "filename": "img-section-ilustration-01-min.png",
+            "thumbnail_url": "https:\/\/bimberonline.com\/coinclan\/wp-content\/uploads\/sites\/136\/2022\/12\/img-section-ilustration-01-min-800x587.png",
+            "templates": [
+                {
+                    "source": "templates\/tokens-details.json",
+                    "name": "Tokens Details"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 60455,
+            "dimensions": [
+                1000,
+                734
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/cryptocurrency-isometric-vector-illustration-TSEDYZ4"
+        },
+        {
+            "filename": "img-section-ilustration-02-min.png",
+            "thumbnail_url": "https:\/\/bimberonline.com\/coinclan\/wp-content\/uploads\/sites\/136\/2022\/12\/img-section-ilustration-02-min-800x568.png",
+            "templates": [
+                {
+                    "source": "templates\/tokens-details.json",
+                    "name": "Tokens Details"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 118986,
+            "dimensions": [
+                1000,
+                710
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/cryptocurrency-isometric-vector-illustration-FBTMQ2L"
+        },
+        {
+            "filename": "img-bg-03-min.jpg",
+            "thumbnail_url": "https:\/\/bimberonline.com\/coinclan\/wp-content\/uploads\/sites\/136\/2022\/12\/img-bg-03-min-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/tokens-details.json",
+                    "name": "Tokens Details"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 87900,
+            "dimensions": [
+                1900,
+                1266
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/3d-wavy-band-surface-R6WPPH"
+        },
+        {
+            "filename": "img-section-ilustration-03-min.png",
+            "thumbnail_url": "https:\/\/bimberonline.com\/coinclan\/wp-content\/uploads\/sites\/136\/2022\/12\/img-section-ilustration-03-min-800x510.png",
+            "templates": [
+                {
+                    "source": "templates\/tokens-details.json",
+                    "name": "Tokens Details"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 109036,
+            "dimensions": [
+                1000,
+                637
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/detailed-crypto-isometric-vector-illustration-F4RLD4T"
+        },
+        {
+            "filename": "icon-coin-4.png",
+            "thumbnail_url": "https:\/\/bimberonline.com\/coinclan\/wp-content\/uploads\/sites\/136\/2022\/12\/icon-coin-4.png",
+            "templates": [
+                {
+                    "source": "templates\/tokens-details.json",
+                    "name": "Tokens Details"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "Faq"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 2353,
+            "dimensions": [
+                120,
+                120
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/crypto-currency-vector-inter-line-icons-KAPGUSA"
+        },
+        {
+            "filename": "icon-coin-6.png",
+            "thumbnail_url": "https:\/\/bimberonline.com\/coinclan\/wp-content\/uploads\/sites\/136\/2022\/12\/icon-coin-6.png",
+            "templates": [
+                {
+                    "source": "templates\/tokens-details.json",
+                    "name": "Tokens Details"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 2423,
+            "dimensions": [
+                120,
+                120
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/crypto-currency-vector-inter-line-icons-KAPGUSA"
+        },
+        {
+            "filename": "icon-coin-5.png",
+            "thumbnail_url": "https:\/\/bimberonline.com\/coinclan\/wp-content\/uploads\/sites\/136\/2022\/12\/icon-coin-5.png",
+            "templates": [
+                {
+                    "source": "templates\/tokens-details.json",
+                    "name": "Tokens Details"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 2188,
+            "dimensions": [
+                120,
+                120
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/crypto-currency-vector-inter-line-icons-KAPGUSA"
+        },
+        {
+            "filename": "icon-coin-7.png",
+            "thumbnail_url": "https:\/\/bimberonline.com\/coinclan\/wp-content\/uploads\/sites\/136\/2022\/12\/icon-coin-7.png",
+            "templates": [
+                {
+                    "source": "templates\/tokens-details.json",
+                    "name": "Tokens Details"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 2497,
+            "dimensions": [
+                120,
+                120
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/crypto-currency-vector-inter-line-icons-KAPGUSA"
+        },
+        {
+            "filename": "im-image-section-02-v2.jpg",
+            "thumbnail_url": "https:\/\/bimberonline.com\/coinclan\/wp-content\/uploads\/sites\/136\/2022\/12\/im-image-section-02-v2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 42609,
+            "dimensions": [
+                800,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collection-of-different-joyful-millennials-portrai-C7RWEU3"
+        },
+        {
+            "filename": "im-image-section-07-v2.jpg",
+            "thumbnail_url": "https:\/\/bimberonline.com\/coinclan\/wp-content\/uploads\/sites\/136\/2022\/12\/im-image-section-07-v2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 100095,
+            "dimensions": [
+                800,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collection-of-different-joyful-millennials-portrai-C7RWEU3"
+        },
+        {
+            "filename": "im-image-section-08-v2.jpg",
+            "thumbnail_url": "https:\/\/bimberonline.com\/coinclan\/wp-content\/uploads\/sites\/136\/2022\/12\/im-image-section-08-v2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 90619,
+            "dimensions": [
+                800,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collection-of-different-joyful-millennials-portrai-C7RWEU3"
+        },
+        {
+            "filename": "icon-coin-2.png",
+            "thumbnail_url": "https:\/\/bimberonline.com\/coinclan\/wp-content\/uploads\/sites\/136\/2022\/12\/icon-coin-2.png",
+            "templates": [
+                {
+                    "source": "templates\/faq.json",
+                    "name": "Faq"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 2379,
+            "dimensions": [
+                120,
+                120
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/crypto-currency-vector-inter-line-icons-KAPGUSA"
+        },
+        {
+            "filename": "icon-coin-1.png",
+            "thumbnail_url": "https:\/\/bimberonline.com\/coinclan\/wp-content\/uploads\/sites\/136\/2022\/12\/icon-coin-1.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 2480,
+            "dimensions": [
+                120,
+                120
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/crypto-currency-vector-inter-line-icons-KAPGUSA"
+        },
+        {
+            "filename": "img-section-coin-02-min.png",
+            "thumbnail_url": "https:\/\/bimberonline.com\/coinclan\/wp-content\/uploads\/sites\/136\/2022\/12\/img-section-coin-02-min-800x431.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 8411,
+            "dimensions": [
+                893,
+                481
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "img-section-coin-01-min.png",
+            "thumbnail_url": "https:\/\/bimberonline.com\/coinclan\/wp-content\/uploads\/sites\/136\/2022\/12\/img-section-coin-01-min-800x448.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 116792,
+            "dimensions": [
+                893,
+                500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/3d-bitcoin-cryptocurrency-icons-G82S9J2"
+        },
+        {
+            "filename": "icon-coin-3.png",
+            "thumbnail_url": "https:\/\/bimberonline.com\/coinclan\/wp-content\/uploads\/sites\/136\/2022\/12\/icon-coin-3.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 2319,
+            "dimensions": [
+                120,
+                120
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/crypto-currency-vector-inter-line-icons-KAPGUSA"
+        },
+        {
+            "filename": "bitcoins-on-computer-keyboard-2021-08-26-23-02-50-utc-min.jpg",
+            "thumbnail_url": "https:\/\/bimberonline.com\/coinclan\/wp-content\/uploads\/sites\/136\/2022\/12\/bitcoins-on-computer-keyboard-2021-08-26-23-02-50-utc-min-800x1200.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 203518,
+            "dimensions": [
+                1000,
+                1500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/bitcoins-on-computer-keyboard-PZSQNLP"
+        },
+        {
+            "filename": "online-trading-crypto-currency-2022-11-11-06-46-44-utc-min.jpg",
+            "thumbnail_url": "https:\/\/bimberonline.com\/coinclan\/wp-content\/uploads\/sites\/136\/2022\/12\/online-trading-crypto-currency-2022-11-11-06-46-44-utc-min-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 218546,
+            "dimensions": [
+                1500,
+                1001
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/online-trading-crypto-currency-E9JAUW6"
+        },
+        {
+            "filename": "african-american-person-sending-a-bitcoin-btc-cryp-2021-09-02-12-43-22-utc-min.jpg",
+            "thumbnail_url": "https:\/\/bimberonline.com\/coinclan\/wp-content\/uploads\/sites\/136\/2022\/12\/african-american-person-sending-a-bitcoin-btc-cryp-2021-09-02-12-43-22-utc-min-800x1200.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 93263,
+            "dimensions": [
+                1000,
+                1500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/african-american-person-sending-a-bitcoin-btc-cryp-F2RN4WD"
+        },
+        {
+            "filename": "img-404-01-min.png",
+            "thumbnail_url": "https:\/\/bimberonline.com\/coinclan\/wp-content\/uploads\/sites\/136\/2022\/12\/img-404-01-min-800x534.png",
+            "templates": [
+                {
+                    "source": "templates\/404.json",
+                    "name": "404"
+                }
+            ],
+            "filesize": 28547,
+            "dimensions": [
+                1000,
+                667
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/cryptocurrency-mining-QMPFH9P"
+        },
+        {
+            "filename": "img-logo-part-01.png",
+            "thumbnail_url": "https:\/\/bimberonline.com\/coinclan\/wp-content\/uploads\/sites\/136\/2022\/12\/img-logo-part-01.png",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                },
+                {
+                    "source": "templates\/header.json",
+                    "name": "Header"
+                }
+            ],
+            "filesize": 5252,
+            "dimensions": [
+                511,
+                678
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "img-logo-part-02.png",
+            "thumbnail_url": "https:\/\/bimberonline.com\/coinclan\/wp-content\/uploads\/sites\/136\/2022\/12\/img-logo-part-02.png",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                },
+                {
+                    "source": "templates\/header.json",
+                    "name": "Header"
+                }
+            ],
+            "filesize": 7292,
+            "dimensions": [
+                520,
+                680
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        }
+    ]
+}
